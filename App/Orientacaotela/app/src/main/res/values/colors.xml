@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Customize your theme here -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#9C27B0</color>
+    <color name="colorAccent">#9C27B0</color>
+    <color name="corTexto">#3F51B5</color>
+    <color name="corDoTitulo">#009688</color>
+</resources>
