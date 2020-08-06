@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layout Relativo</string>
+    <string name="lucas_gomes">Lucas Gomes</string>
+    <string name="todo">TODO</string>
+    <string name="string_todo" />
+    <string name="detalhes">Detalhes</string>
+    <string name="string_string_todo" />
+</resources>
