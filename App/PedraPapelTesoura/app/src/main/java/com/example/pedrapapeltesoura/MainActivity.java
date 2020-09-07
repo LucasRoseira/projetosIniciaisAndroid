@@ -58,9 +58,9 @@ public class MainActivity extends AppCompatActivity {
                     (escolhaUsuario == "papel" && escolhaApp == "pedra") ||
                     (escolhaUsuario == "pedra" && escolhaApp == "tesoura")
             ) {
-                textoResultado.setText("Você Ganhou :( ");
+                textoResultado.setText("Você Ganhou ;) ");
             } else { //Empate
-                textoResultado.setText("Empatamos ;) ");
+                textoResultado.setText("Empatamos ;| ");
             }
     }
 }
